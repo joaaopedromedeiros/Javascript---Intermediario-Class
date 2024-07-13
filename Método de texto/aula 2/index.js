@@ -1,0 +1,1 @@
+// Obtendo o comprimento de uma string
