@@ -5,7 +5,7 @@
 function createProduct (name) {
   const product = {}
 
-  product.name = name; // dentro do parâmetro name VAI RECEBER O "NAME"
+  product.name = name; // dentro do parâmetro name VAI RECEBER O "NAME", em todos locais da função que estiver ele sendo usado tipo aqui e na descrição
   product.details = function() {
     console.log(`O nome do produto é ${this.name}`)
   } /*esse this identifica no contexto inserido, toda função*/ 
