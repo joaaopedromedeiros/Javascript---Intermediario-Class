@@ -55,6 +55,6 @@ const person1 = new Person("Rodrigo")
 console.log(person1)
 person1.massage()
 
-const person1 = new Person("João")
+const person2 = new Person("João")
 console.log(person2)
 person2.massage()

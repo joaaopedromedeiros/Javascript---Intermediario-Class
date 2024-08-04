@@ -122,7 +122,7 @@ console.log(" Aula 5 - Unindo e separando strings")
 let text = "estudar, Aprender, Praticar"
 
 // Separando strings com split("parâmetro")
-let separateText = text.split(",") // separa assim quue tiver virgula
+let separateText = text.split(",") // separa assim que tiver virgula
 console.log(separateText)
 
 let massage4 = "Estou aprendendo javascript"
